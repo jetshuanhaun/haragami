@@ -1,0 +1,21 @@
+{
+  "name": "haragami",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.2.25",
+    "vue-fullpage.js": "^0.2.5",
+    "vue-router": "^4.1.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.3",
+    "swiper": "^8.2.6",
+    "vite": "^2.9.9",
+    "vue-awesome-swiper": "^3.1.3"
+  }
+}
